@@ -1,0 +1,12 @@
+﻿h1 {
+    font-size:36px;
+    font-family:fantasy;
+}
+
+.input {
+    border-top:hidden;
+    border-left:hidden;
+    border-right:hidden;
+    border-color:darkgray;
+
+}
